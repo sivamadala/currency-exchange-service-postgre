@@ -1,0 +1,6 @@
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValue.java
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/CurrencyExchangeController.java
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/util/containerservice/ContainerMetaDataService.java
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/util/logging/EnvironmentConfigurationLogger.java
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValueRepository.java
+/home/siva/git-projects/deploy-spring-microservices-to-aws-ecs-fargate/04-currency-exchange-service-mysql/src/main/java/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationMySql.java
