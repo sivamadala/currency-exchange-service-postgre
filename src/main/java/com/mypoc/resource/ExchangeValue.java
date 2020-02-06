@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice.resource;
+package com.mypoc.resource;
 
 import java.math.BigDecimal;
 

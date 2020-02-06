@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice.util.containerservice;
+package com.mypoc.util.containerservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

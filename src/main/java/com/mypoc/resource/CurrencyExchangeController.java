@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice.resource;
+package com.mypoc.resource;
 
 import java.util.Map;
 
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.in28minutes.microservices.currencyexchangeservice.util.containerservice.ContainerMetaDataService;
+import com.mypoc.util.containerservice.ContainerMetaDataService;
 
 @RestController
 public class CurrencyExchangeController {

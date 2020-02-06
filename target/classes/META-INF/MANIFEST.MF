@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Implementation-Title: aws-currency-exchange-service-mysql
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: siva
-Implementation-Vendor-Id: com.in28minutes.microservices
-Build-Jdk: 1.8.0_232
+Implementation-Vendor-Id: com.mypoc
+Build-Jdk: 1.8.0_242
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/04-aws-currency-exchange-service-mysql
+ ot-starter-parent/currency-exchange-service-postgre
 Created-By: Maven Integration for Eclipse
 

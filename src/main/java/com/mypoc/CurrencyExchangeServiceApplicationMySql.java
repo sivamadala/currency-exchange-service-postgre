@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice;
+package com.mypoc;
 
 import java.math.BigDecimal;
 
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.in28minutes.microservices.currencyexchangeservice.resource.ExchangeValue;
-import com.in28minutes.microservices.currencyexchangeservice.resource.ExchangeValueRepository;
+import com.mypoc.resource.ExchangeValue;
+import com.mypoc.resource.ExchangeValueRepository;
 
 @SpringBootApplication
 public class CurrencyExchangeServiceApplicationMySql implements CommandLineRunner {

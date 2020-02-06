@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyexchangeservice.util.logging;
+package com.mypoc.util.logging;
 
 import java.util.Arrays;
 import java.util.stream.StreamSupport;
