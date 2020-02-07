@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: aws-currency-exchange-service-mysql
+Implementation-Title: aws-currency-exchange-service-postgre
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: siva
 Implementation-Vendor-Id: com.mypoc
